@@ -6,8 +6,6 @@
 	"license":"MIT",
 	"version": "1.0.0",
 	"dependencies": {
-		"package-name": "moment",
-		"moment": "^2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {

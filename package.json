@@ -5,6 +5,10 @@
 	"keywords": ["firstNodeProject", "freecodecamp"],
 	"license":"MIT",
 	"version": "1.0.0",
+	"dependencies": {
+		"package-name": "version",
+		"express": "2.14.0"
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

@@ -5,8 +5,6 @@
 	"keywords": ["firstNodeProject", "freecodecamp"],
 	"license":"MIT",
 	"version": "1.0.0",
-	"dependencies": {
-	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
